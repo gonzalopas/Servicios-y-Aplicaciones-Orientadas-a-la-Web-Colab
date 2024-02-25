@@ -1,5 +1,5 @@
--- CREATE DATABASE IF NOT EXISTS world_rowing_results;
--- USE world_rowing_results;
+CREATE DATABASE IF NOT EXISTS world_rowing_results;
+USE world_rowing_results;
 
 CREATE TABLE IF NOT EXISTS competiciones (
     id_competicion INT AUTO_INCREMENT PRIMARY KEY,
